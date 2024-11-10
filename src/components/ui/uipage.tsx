@@ -5,13 +5,14 @@ import Image from 'next/image';
 
 import Modal from '../Modal';
 import { Spotlight } from './spotlight';
+import {useTranslations} from "use-intl";
 
 const UiPage = () => {
   const [isModalOpen, setModalOpen] = useState(false);
 
   const handleOpenModal = () => setModalOpen(true);
   const handleCloseModal = () => setModalOpen(false);
-
+  const t = useTranslations('Ui');
   return (
     <div className="flex flex-col items-center justify-center min-h-screen px-20 relative">
       <Spotlight className="absolute z-50 top-0 right-50" fill="white" />
@@ -25,19 +26,19 @@ const UiPage = () => {
         {/* Левая часть с текстом */}
         <div className="w-full md:w-1/2">
           <h1 className="text-6xl font-bold text-center md:text-left mb-12">
-          Дизайн мобильных приложений и сайтов
+            {t('h1')}
           </h1>
           <h1 className="text-2xl font-bold text-center md:text-left mb-12">
-          Проектируем эффективные интерфейсы
+            {t('h2')}
           </h1>
           <p className="text-xl">
-          Разрабатываем макет интерактивного интерфейса. Это понадобится, если у вас есть идея продукта, и вы хотите увидеть функциональный UX-макет, решающий ваши бизнес-задачи
+            {t('p')}
           </p>
           <button
             onClick={handleOpenModal}
             className="flex items-center px-12 py-4 border-2 border-black dark:border-white uppercase bg-blue-600 text-white transition duration-200 text-xl mt-12"
           >
-            Оставить заявку
+            {t('button')}
             <svg
               className="ml-2 w-8 h-8"
               xmlns="http://www.w3.org/2000/svg"
