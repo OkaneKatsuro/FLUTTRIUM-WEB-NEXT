@@ -155,7 +155,9 @@
     "h2" : "Write to us!",
     "p" : "Let's make a user-friendly digital product for your customers together!",
     "button" : "Leave a request",
-    "p2" : "By clicking on the button, you consent to the processing of personal data and agree to the privacy policy."
+    "p2" : "By clicking on the button, you consent to the processing of personal data and agree to the privacy policy.",
+    "name" : "Name",
+    "text1" : "Project Description"
 
   },
   "Mobile": {
@@ -187,7 +189,45 @@
     "text2": " Create an effective application",
     "text3" :"Trust our professionals and get a quality product!",
     "text4" : "  Order a service"
+  },
+  "Ui" : {
+    "h1" : "Design of mobile applications and websites",
+    "h2" : " Designing effective interfaces",
+    "p" : "Develop an interactive interface mockup. You will need this if you have an idea for a product and want to see a functional UX mockup that solves your business problems",
+    "button" : "Leave a request",
+    "stage": "Let's start working",
+    "description" : "Connect the team: project manager (PM), designer and business analyst.",
+    "stage1": "Defining requirements",
+    "description1" : "PM together with business analyst and designer clarify your wishes for the functionality of the project and make a list of their degree of priority.",
+    "stage2": "Screenplay selection",
+    "description2" : "We work with you to identify the 5 to 7 most likely scenarios for using the app.",
+    "stage3": "Creating layouts",
+    "description3" : "Cased on your wishes, the designer creates wireframes, develops the style of the future application, creates screens in Figma and an interactive prototype, prepares all the mockups for submission to the developer. The analyst checks the mockups for compliance with the requirements.",
+    "stage4": "Approve layouts",
+    "description4" : "Coordinate layouts with you. We make changes (up to three iterations).",
+    "stage5": "Finishing the job",
+    "description5" : "Introducing an interactive prototype in Figma.",
+    "text" : "Stages of work",
+    "text2": " Create an effective application",
+    "text3" :"Trust our professionals and get a quality product!",
+    "text4" : "  Order a service"
+  },
+   "ITe": {
+     "work_stages_": "Project Stages",
+     "stage1_": "Getting Started",
+     "stage1_description": "We sign an NDA with you and integrate analysts into your project.",
+     "stage2_": "Conduct Testing",
+     "stage2_description": "Identify malfunctioning features, visual issues, and analyze risks and vulnerabilities.",
+     "stage3_": "Summarizing Results",
+     "stage3_description": "Prepare a report suggesting strategies for improving and optimizing the product.",
+     "cta_": "Create an Efficient Application",
+     "cta_description": "Trust our professionals and get a high-quality product!",
+     "cta_button": "Order Service",
+     "h1" : "IT audit" ,
+     "h2" : "We'll analyse and evaluate your IT product, suggest what's good and what's worth fixing",
+     "p" : "We thoroughly analyse the IT product: from UI/UX design to stability of the software solution under various stress factors. With the help of our report with a list of recommendations, you will be able to correct weaknesses of your project, if any, and improve the strong ones ",
+     "button" :"Leave a request"
 
-  }
+   }
 
 }
