@@ -1,16 +1,19 @@
+"use client";
 import React from "react";
 import Image from "next/image";
+import {useTranslations} from "use-intl";
 
 const FlutterInfo = () => {
+const  t  = useTranslations('Cover');
     return (
         <div className="w-3/3 mx-20  rounded-lg shadow-md flex items-center"> {/* Flex для выравнивания */}
             <div className="flex-1"> {/* Текстовая часть */}
-                <h2 className="text-6xl font-bold mb-4">Что такое Flutter?</h2>
+                <h2 className="text-6xl font-bold mb-4">{t('title2')}</h2>
                 <p className="text-xl text-white-700 mb-4">
-                    Flutter — это технология кроссплатформенной разработки приложений. Разработана и поддерживается Google и постоянно обновляется. Flutter позволяет писать приложение сразу для двух ОС, используя один код. Для пользователей приложение на Flutter не отличается от нативного. А для бизнеса – плюсов много.
+                    {t("description1")}
                 </p>
                 <p className="text-xl text-white-700">
-                    На Flutter уже работают Alibaba, Philips Hue, Hamilton, Tencent, Grab, Groupon, ГК «Дикси», «Яндекс.Драйв» и другие крупные мировые и российские компании.
+                    {t("description2")}
                 </p>
             </div>
             <Image

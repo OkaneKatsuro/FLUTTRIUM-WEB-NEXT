@@ -257,6 +257,37 @@
      "text2": " Vytvoření efektivní aplikace",
      "text3" :"Důvěřujte našim profesionálům a získejte kvalitní produkt!",
      "text4" : "  Objednat službu"
-   }
+   },
+    "Cover" : {
+      "title": "Vyvíjíme mobilní aplikace ",
+      "button": "Bezplatná konzultace",
+      "title2": "Co je Flutter?",
+      "description1": "Flutter je technologie pro vývoj multiplatformních aplikací, kterou vyvinula a udržuje společnost Google. Umožňuje vytvářet aplikace pro dvě operační systémy pomocí jednoho kódu. Pro uživatele jsou aplikace na Flutteru nerozeznatelné od těch nativních, zatímco pro firmy to přináší řadu výhod.",
+      "description2": "Na Flutteru již pracují společnosti jako Alibaba, Philips Hue, Hamilton, Tencent, Grab, Groupon, skupina Dixie, Yandex.Drive a mnoho dalších.",
+      "h1" : "Výhody vývoje aplikace na platformě Flutter pro firmy",
+      "title3": "Nižší náklady",
+      "description3": "Úspora rozpočtu v průměru o 30 % až 50 %. Neplatíte za dva samostatné projekty, jako u nativních řešení.",
+      "title4": "Vyšší rychlost",
+      "description4": "Zkrácení doby uvedení na trh. Jeden vývojář Flutteru může dělat práci dvou nativních vývojářů ve stejném čase.",
+      "title5": "Výkon",
+      "description5": "Uživatelé si nevšimnou rozdílu oproti nativním aplikacím — aplikace na Flutteru běží rychle a efektivně.",
+      "title6": "Funkčnost",
+      "description6": "Aplikace na Flutteru jsou vytvářeny pro maloobchod, bankovnictví, pojišťovnictví a další průmyslová odvětví bez omezení.",
+      "moreInfoButton": "Více o Flutteru",
+      "heading": "Naše zkušenosti",
+      "flutterExperience": "Náš zkušený tým Fluttrium pracuje s frameworkem Flutter již od první beta verze.",
+      "companiesExperience": "Vyvíjíme aplikace pro velké společnosti v oblasti maloobchodu, pojišťovnictví a sportu.",
+      "appsDevelopment": "Naše aplikace se aktivně rozvíjejí a jsou již využívány uživateli.",
+      "videoFallback": "Váš prohlížeč nepodporuje přehrávání videa.",
+      "h2" : "Načasování a náklady",
+      "p" :"Odhad závisí na projektu, rozsahu prací, použitých technologiích a přístupech.\n Podrobnější odhad vám budeme moci poskytnout, až obdržíme váš vyplněný brief nebo až s vámi proběhne úvodní telefonát.",
+      "button2" : "Výpočet nákladů",
+      "p2" :"4 měsíce",
+      "p3" : "Průměrná data",
+      "p4" : "3 miliony RUB",
+      "p5" : "Průměrné náklady"
 
+    }
 }
+
+

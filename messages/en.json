@@ -228,6 +228,37 @@
      "p" : "We thoroughly analyse the IT product: from UI/UX design to stability of the software solution under various stress factors. With the help of our report with a list of recommendations, you will be able to correct weaknesses of your project, if any, and improve the strong ones ",
      "button" :"Leave a request"
 
-   }
-
+   },
+  "Cover" : {
+  "title": "Developing Mobile Applications with ",
+  "button": "Free Consultation",
+    "title2": "What is Flutter?",
+    "description1": "Flutter is a cross-platform application development technology developed and maintained by Google. It allows you to create applications for two operating systems using a single codebase. For users, Flutter apps are indistinguishable from native ones, while for businesses, it offers numerous advantages.",
+    "description2": "Companies like Alibaba, Philips Hue, Hamilton, Tencent, Grab, Groupon, Dixie Group, Yandex.Drive, and many others are already using Flutter.",
+    "h1": "Benefits of developing an application on Flutter for business",
+    "title3": "Lower Cost",
+    "description3": "Save 30% to 50% of your budget on average. You don't pay for two separate projects like with native solutions.",
+    "title4": "Faster Speed",
+    "description4": "Reduced time-to-market. One Flutter developer can do the work of two native developers in the same timeframe.",
+    "title5": "Performance",
+    "description5": "Users won't notice a difference from native apps — Flutter apps run fast and efficiently.",
+    "title6": "Functionality",
+    "description6": "Flutter apps are created for retail, banking, insurance, and other industries without limitations.",
+    "moreInfoButton": "Learn more about Flutter",
+    "heading": "Our Experience",
+    "flutterExperience": "Our experienced Flutter team, Fluttrium, has been working with the framework since its first beta release.",
+    "companiesExperience": "We develop applications for major companies in retail, insurance, and sports.",
+    "appsDevelopment": "Our applications are actively evolving and are already being used by users.",
+    "videoFallback": "Your browser does not support the video tag.",
+    "h2" : "Timing and cost",
+    "p" :"The estimate depends on the project, scope of work, technologies and approaches used.\n We will be able to give you a more detailed estimate when we receive your completed brief or have an initial call with you.",
+    "button2" :"Calculate cost",
+    "p2" :"4 months",
+    "p3" : "Average dates",
+    "p4" : "RUB 3 million",
+    "p5" : "Average cost"
+  }
 }
+
+
+
