@@ -1,7 +1,10 @@
+"use client";
 import React from "react";
 import Image from "next/image";
+import {useTranslations} from "use-intl";
 
 export function FreeAudit() {
+  const t = useTranslations('FreeAudit');
   return (
       <div className="relative w-full py-10 px-8 text-center flex items-center">
         {/* Изображение слева */}
@@ -18,22 +21,22 @@ export function FreeAudit() {
         {/* Текстовый блок */}
         <div className="w-2/3 text-left ml-6">
           <h2 className="text-4xl font-bold mb-6 text-white">
-            Бесплатный экспресс‑аудит приложения
+            {t("heading")}
           </h2>
 
           <p className="text-lg mb-6 text-white">
-            Аудит приложения требуется, если оно работает некорректно. Пользователи публикуют негативные комментарии о работе приложения и ставят низкие оценки — что отрицательно влияет на продвижение приложения в сторах.
+            {t("description").toUpperCase()}
           </p>
 
           <ul className="list-disc list-inside mb-6 text-white">
-            <li>Негативные комментарии пользователей</li>
-            <li>Низкие оценки в сторах</li>
-            <li>Проблемы с производительностью</li>
+            <li>{t('item1')}</li>
+            <li>{t('item2')}</li>
+            <li>{t('item3')}</li>
           </ul>
 
           <div className="flex justify-center">
             <button className="flex items-center px-8 py-0.5 border-2 border-black dark:border-white uppercase bg-blue-600 text-white transition duration-200 text-sm z-30">
-              Бесплатная консультация
+              {t("buttonText")}
               <svg
                   className="ml-2 w-10 h-10"
                   xmlns="http://www.w3.org/2000/svg"

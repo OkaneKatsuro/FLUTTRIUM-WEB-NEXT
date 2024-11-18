@@ -257,8 +257,40 @@
     "p3" : "Average dates",
     "p4" : "RUB 3 million",
     "p5" : "Average cost"
+  },
+  "Steps": {
+    "heading": "How We Will Work",
+    "title": "Discussion",
+    "description": "Sign NDA. Ask questions, learn details about the future application and its business goals.",
+    "title2": "Technical Specifications",
+    "description2": "We study your specifications, or help create one if it's missing.",
+    "title3": "Prototype",
+    "description3": "Create a clickable prototype of the application's interface.",
+    "title4": "Design",
+    "description4": "Develop a stylish design in line with your brand or create a new one.",
+    "title5": "Development",
+    "description5": "Turn prototypes into reality. Work in iterations, showing intermediate results.",
+    "title6": "Testing",
+    "description6": "Thoroughly test the product to ensure it works for every user.",
+    "title7": "Publication",
+    "description7": "Prepare the mobile app for publication. Publish to stores.",
+    "title8": "Transfer of Rights",
+    "description8": "Hand over the source code and rights to the development.",
+    "title9": "Support",
+    "description9": "Ensure smooth operation of the mobile app after launch. Develop new features."
+  },
+
+  "FreeAudit": {
+    "heading": "Free Express App Audit",
+    "description": "An app audit is necessary if it is not functioning correctly. Users post negative comments about the app’s performance and give low ratings, which negatively impact the app's promotion in stores.",
+    "item1": "Negative user comments",
+    "item2": "Low ratings in stores",
+    "item3": "Performance issues",
+    "buttonText": "Free Consultation"
   }
 }
+
+
 
 
 

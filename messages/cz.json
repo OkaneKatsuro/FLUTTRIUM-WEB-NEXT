@@ -286,8 +286,36 @@
       "p3" : "Průměrná data",
       "p4" : "3 miliony RUB",
       "p5" : "Průměrné náklady"
-
-    }
+    },
+  "Steps": {
+    "heading": "Jak budeme pracovat",
+    "title": "Diskuze",
+    "description": "Podepíšeme NDA. Zjistíme podrobnosti o budoucí aplikaci a jejích obchodních cílech.",
+    "title2": "Technické specifikace",
+    "description2": "Prostudujeme vaše zadání, nebo pomůžeme s jeho vytvořením.",
+    "title3": "Prototyp",
+    "description3": "Vytvoříme prototyp aplikace s klikacími prvky.",
+    "title4": "Design",
+    "description4": "Navrhneme stylový design v souladu s vaší značkou nebo vytvoříme nový.",
+    "title5": "Vývoj",
+    "description5": "Převedeme prototypy do reality. Pracujeme iteracemi a ukazujeme průběžné výsledky.",
+    "title6": "Testování",
+    "description6": "Důkladně testujeme produkt, aby fungoval u každého uživatele.",
+    "title7": "Publikace",
+    "description7": "Připravíme mobilní aplikaci k publikaci. Publikujeme do obchodů.",
+    "title8": "Předání práv",
+    "description8": "Předáme zdrojový kód a práva k vývoji.",
+    "title9": "Podpora",
+    "description9": "Zajišťujeme bezproblémový provoz aplikace po spuštění. Vyvíjíme nové funkce."
+  },
+  "FreeAudit": {
+    "heading": "Bezplatný expresní audit aplikace",
+    "description": "Audit aplikace je nutný, pokud nefunguje správně. Uživatelé zveřejňují negativní komentáře o výkonu aplikace a dávají nízké hodnocení, což negativně ovlivňuje propagaci aplikace v obchodech.",
+    "item1": "Negativní komentáře uživatelů",
+    "item2": "Nízké hodnocení v obchodech",
+    "item3": "Problémy s výkonem",
+    "buttonText": "Bezplatná konzultace"
+  }
 }
 
 
